@@ -1,0 +1,21 @@
+/* #F8EDE3=Beige; #798777=DarkGreen; #A2B29F:mild green #A2B29F=lightGreen */
+body{
+                background-color: #F8EDE3;
+ }
+            hr{
+                background-color: #F8EDE3;
+                border-color: #A2B29F;
+                border-style: dotted none none;
+                border-width: 8px;
+            }
+            h1{
+               color: #798777;
+            }
+            h2{
+                color: #798777;
+            }
+            h3{
+                color: #798777;
+            }
+            img{
+                border-radius: 50%;}
